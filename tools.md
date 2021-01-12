@@ -12,3 +12,5 @@ Malbolge esolang tool: http://zb3.me/malbolge-tools/
 What it looks like: 
 
 ``` D'``M#![~HkXzyCfRQcO=<;n&8[)Y'Df1#"@b}vN)yxqYutm3qpongOe+LKa'e^]\a`_X|V[Tx;:PONr54JOHl/Ei,BAFED=aA#?>=<5Yz810/S32+O/.nm%*#"Fg%$#"!x>|{...}_uzsxqpo5sUTpoh.y ```
+
+Flags in hex: https://www.garykessler.net/library/file_sigs.html
